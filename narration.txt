@@ -1,0 +1,3 @@
+Hello from Yale AI class.
+This is a short streaming TTS test.
+We are learning how to play audio directly in Python.

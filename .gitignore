@@ -1,0 +1,26 @@
+# Sensitive local environment
+.env
+.env.local
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Node
+node_modules/
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Editor swap / backup files
+*~
+*.swp
